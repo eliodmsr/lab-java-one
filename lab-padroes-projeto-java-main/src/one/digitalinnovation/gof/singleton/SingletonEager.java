@@ -3,7 +3,7 @@ package one.digitalinnovation.gof.singleton;
 /**
  * Singleton "apressado".
  * 
- * @author falvojr
+ * @author danielribeiro
  */
 public class SingletonEager {
 
